@@ -1,0 +1,11 @@
+@import './styles/index.css';
+@import './styles/components.css';
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
